@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TickTackDie:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a869c6fd-5d3e-421c-8a20-4c094232f7f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1erJqZ8cEF2L02up309mS98QXTf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TickTackDieV0.4" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Manish\Documents\IdeaProjects\TickTackDie\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Board" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Board" />
+      <module name="TickTackDie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a869c6fd-5d3e-421c-8a20-4c094232f7f6" name="Default Changelist" comment="" />
+      <created>1595073970033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595073970033</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595475007332">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1595475007332" />
+    <state x="497" y="222" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595684284261">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="497" y="222" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1595684284261" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595478937450">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1595478937450" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1595756874015">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1595756874015" />
+    <state width="724" height="174" key="GridCell.Tab.0.bottom" timestamp="1595756876043">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="174" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595756876043" />
+    <state width="724" height="174" key="GridCell.Tab.0.center" timestamp="1595756876043">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="174" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595756876043" />
+    <state width="724" height="174" key="GridCell.Tab.0.left" timestamp="1595756876043">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="174" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595756876043" />
+    <state width="724" height="174" key="GridCell.Tab.0.right" timestamp="1595756876043">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="174" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595756876043" />
+    <state width="1492" height="276" key="GridCell.Tab.1.bottom" timestamp="1595739097773">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="276" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595739097773" />
+    <state width="1492" height="276" key="GridCell.Tab.1.center" timestamp="1595739097773">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="276" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1595739097773" />
+    <state width="1492" height="276" key="GridCell.Tab.1.left" timestamp="1595739097773">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="276" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1595739097773" />
+    <state width="1492" height="276" key="GridCell.Tab.1.right" timestamp="1595739097773">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="276" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1595739097773" />
+    <state x="0" y="7" key="SettingsEditor" timestamp="1595684770018">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595684770018" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1595737185075">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1595737185075" />
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1595489879884">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1595489879884" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TickTackDie$Board.ic" NAME="Board Coverage Results" MODIFIED="1595478972250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

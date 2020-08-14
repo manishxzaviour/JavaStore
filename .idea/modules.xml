@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TickTackDieV0.4/TickTackDieV0.4.iml" filepath="$PROJECT_DIR$/TickTackDieV0.4/TickTackDieV0.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbEditor/dbEditor.iml" filepath="$PROJECT_DIR$/dbEditor/dbEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dummy/dummy.iml" filepath="$PROJECT_DIR$/dummy/dummy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gui/gui.iml" filepath="$PROJECT_DIR$/gui/gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/postgresql/postgresql.iml" filepath="$PROJECT_DIR$/postgresql/postgresql.iml" />
+    </modules>
+  </component>
+</project>
